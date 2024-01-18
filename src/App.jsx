@@ -1,5 +1,5 @@
-import Game from "./components/game";
-
-export const App = () => {
-  return <Game />;
+const App = () => {
+  return <div>App</div>;
 };
+
+export default App;
